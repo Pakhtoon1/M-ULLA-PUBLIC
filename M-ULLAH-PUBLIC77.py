@@ -1,31 +1,4 @@
 
-
-Mr-Qureshi-xd
-
-
-
-Open-Source
-
-Public
-
-Code
-
-Issues
-
-Pull requests
-
-Actions
-
-Projects
-
-Wiki
-
-Security
-
-Insights
-
-
-
 @Mr-Qureshi-xd
 
 Mr-Qureshi-xd Add files via upload
@@ -56,7 +29,7 @@ from rich.console import Group as gp
 
 from rich.panel import Panel as nel
 
-from rich import print as cetak
+from rich import print as ceta
 
 from rich.markdown import Markdown as mark
 
