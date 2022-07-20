@@ -57,7 +57,7 @@ princp=[]
 
 #Chnge Name 
 
-	print(
+	
 
 prox=open('.prox.txt','r').read().splitlines()
 
