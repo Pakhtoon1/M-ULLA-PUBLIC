@@ -24,7 +24,7 @@ Security
 
 Insights
 
-Open-Source/01p.py
+
 
 @Mr-Qureshi-xd
 
