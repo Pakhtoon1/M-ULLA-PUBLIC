@@ -294,8 +294,9 @@ def banner():
 
 	sol()
 
-	ban='''
-	© MASTER MIND M-ULLAH TRICKER
+	
+	ban='''© MASTER MIND M-ULLAH
+	
 
  
 
