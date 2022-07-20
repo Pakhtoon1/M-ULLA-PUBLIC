@@ -57,7 +57,7 @@ princp=[]
 
 #Chnge Name 
 
-	print('[[\x1b[1;92m•\x1b[1;97m] [\x1b[1;97mMR-QURESHI-XD]')
+	print(
 
 prox=open('.prox.txt','r').read().splitlines()
 
