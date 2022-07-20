@@ -295,10 +295,8 @@ def banner():
 	sol()
 
 	
-	ban='''Â© MASTER MIND M-ULLAH
 	
-
- 
+	
 
 ___  ___       _   _ _      _       ___   _   _ 
 
