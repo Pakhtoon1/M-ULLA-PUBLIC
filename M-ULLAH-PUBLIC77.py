@@ -1,12 +1,4 @@
 
-@Mr-Qureshi-xd
-
-Mr-Qureshi-xd Add files via upload
-
- 1 contributor
-
-1036 lines (1022 sloc)  44.7 KB
-
 #Open Source Public Cloniing 
 
 #By Mr-Qureshi
